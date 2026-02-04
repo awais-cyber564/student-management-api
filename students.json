@@ -1,0 +1,24 @@
+[
+    {
+        "id": 12222,
+        "name": "Awais",
+        "father_name": "Aijaz",
+        "age": 15,
+        "email": "user@example.com",
+        "phone": "03185985881",
+        "course": "python",
+        "address": "11a orangi town karahci",
+        "admission_date": "2026-02-04"
+    },
+    {
+        "id": 45555,
+        "name": "faraz",
+        "father_name": "aijaz",
+        "age": 23,
+        "email": "user@example.com",
+        "phone": "03158530558",
+        "course": "pythonn",
+        "address": "string",
+        "admission_date": "2026-02-04"
+    }
+]
